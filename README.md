@@ -1,2 +1,5 @@
 # bye-world
-bye
+
+hello people!
+
+charmaine here!how are you?
